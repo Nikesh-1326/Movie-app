@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "genre": "Sci-Fi",
+    "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "description": "A skilled thief enters the dreams of others to steal secrets."
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.7,
+    "genre": "Sci-Fi",
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "Explorers travel through a wormhole in space to find a new home for humanity."
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "rating": 9.0,
+    "genre": "Action",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "Batman faces a criminal mastermind who wants to plunge Gotham into chaos."
+  },
+  {
+    "id": 4,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "rating": 8.3,
+    "genre": "Action",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "description": "The Avengers attempt to undo the destruction caused by Thanos."
+  },
+  {
+    "id": 5,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "rating": 8.0,
+    "genre": "Action",
+    "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "description": "Spider-Man's identity is revealed and his world is turned upside down."
+  },
+  {
+    "id": 6,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "rating": 8.5,
+    "genre": "Adventure",
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge."
+  }
+]
